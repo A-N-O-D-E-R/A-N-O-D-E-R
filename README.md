@@ -20,9 +20,9 @@
 
 <h2> About Me<img src="https://media1.giphy.com/media/RifTnAQRz2mtH0EnZX/giphy.gif?cid=ecf05e473bwn2pq0626373ftybdehk7hpxh0s47uznvzr8uk&rid=giphy.gif&ct=s" alt="PAPAMICA" height="50" width="60" /></h2>
   
-- 🌱 I’m currently learning **Zabbix and Grafana**  
+- 🌱 I’m currently learning **Ansible**  
   
-- 🔭 I’m currently working for [ALTAR](altar.bio)  
+- 🔭 I’m currently working for [Audioptic](https://www.groupement-optic2000.com/)  
   
 - 👨‍💻 All of my projects are available at [A-N-O-D-E-R.com](A-N-O-D-E-R.com)  
   
