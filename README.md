@@ -84,7 +84,7 @@
 </p>
 <br>
 
-[![PAPAMICA Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-N-O-D-E-R&custom_title=A-N-O-D-E-R's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=A0BDFE)](https://A-N-O-D-E-R.com)
+[![A-N-O-D-E-R Activity Graph](https://activity-graph.herokuapp.com/graph?username=A-N-O-D-E-R&custom_title=A-N-O-D-E-R's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=A0BDFE)](https://A-N-O-D-E-R.com)
 
 
 <br>
