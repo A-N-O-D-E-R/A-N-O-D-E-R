@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/c/A-N-O" target="blank">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/sGJSKOXA?logo=youtube&style=for-the-badge"></a>
     </br> </br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A-N-O-D-E-R&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="A-N-O-D-E-R" /></a> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=A-N-O-D-E-R&theme=gitdimmed&column=7&no-frame=true&no-bg=true" alt="A-N-O-D-E-R" /></a> 
 </p>  
 
 <img align="right" width="49%" alt="" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
